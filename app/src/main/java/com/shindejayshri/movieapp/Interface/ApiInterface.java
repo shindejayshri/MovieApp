@@ -1,6 +1,6 @@
-package com.example.movieapp.Interface;
+package com.shindejayshri.movieapp.Interface;
 
-import com.example.movieapp.ModelClass.MovieBaseResponse;
+import com.shindejayshri.movieapp.ModelClass.MovieBaseResponse;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

@@ -1,6 +1,6 @@
-package com.example.movieapp.Service;
+package com.shindejayshri.movieapp.Service;
 
-import com.example.movieapp.Utils.Credentials;
+import com.shindejayshri.movieapp.Utils.Credentials;
 
 import okhttp3.OkHttpClient;
 import okhttp3.logging.HttpLoggingInterceptor;

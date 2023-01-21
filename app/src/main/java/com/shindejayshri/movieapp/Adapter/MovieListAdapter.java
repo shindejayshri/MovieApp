@@ -1,4 +1,4 @@
-package com.example.movieapp.Adapter;
+package com.shindejayshri.movieapp.Adapter;
 
 import android.content.Context;
 import android.content.Intent;
@@ -12,11 +12,10 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.example.movieapp.ModelClass.MovieBaseResponse;
-import com.example.movieapp.ModelClass.MovieResult;
-import com.example.movieapp.MovieDetails;
+import com.shindejayshri.movieapp.ModelClass.MovieResult;
+import com.shindejayshri.movieapp.MovieDetails;
 import com.example.movieapp.R;
-import com.example.movieapp.Utils.Credentials;
+import com.shindejayshri.movieapp.Utils.Credentials;
 
 import java.util.ArrayList;
 

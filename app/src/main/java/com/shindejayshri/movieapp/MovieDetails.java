@@ -1,4 +1,4 @@
-package com.example.movieapp;
+package com.shindejayshri.movieapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.cardview.widget.CardView;
@@ -9,8 +9,9 @@ import android.widget.RatingBar;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
-import com.example.movieapp.ModelClass.MovieResult;
-import com.example.movieapp.Utils.Credentials;
+import com.shindejayshri.movieapp.ModelClass.MovieResult;
+import com.example.movieapp.R;
+import com.shindejayshri.movieapp.Utils.Credentials;
 
 public class MovieDetails extends AppCompatActivity {
 
@@ -51,6 +52,7 @@ public class MovieDetails extends AppCompatActivity {
         //card_booknow.setText(movieDetails.getTitle());
         ratingBar.setClickable(false);
         ratingBar.setEnabled(false);
+
         ratingBar.setRating(movieDetails.getVoteAverage()/2);
 
     }

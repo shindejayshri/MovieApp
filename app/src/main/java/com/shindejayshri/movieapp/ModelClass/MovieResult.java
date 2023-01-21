@@ -1,4 +1,4 @@
-package com.example.movieapp.ModelClass;
+package com.shindejayshri.movieapp.ModelClass;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 

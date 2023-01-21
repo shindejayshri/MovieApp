@@ -1,4 +1,4 @@
-package com.example.movieapp.Utils;
+package com.shindejayshri.movieapp.Utils;
 
 public class Credentials {
 

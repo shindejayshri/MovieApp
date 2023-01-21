@@ -1,19 +1,19 @@
-package com.example.movieapp;
+package com.shindejayshri.movieapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.GridLayoutManager;
-import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.annotation.SuppressLint;
 import android.os.Bundle;
 
-import com.example.movieapp.Adapter.MovieListAdapter;
-import com.example.movieapp.Interface.ApiInterface;
-import com.example.movieapp.ModelClass.MovieBaseResponse;
-import com.example.movieapp.ModelClass.MovieResult;
-import com.example.movieapp.Service.Retrofit;
-import com.example.movieapp.Utils.Credentials;
+import com.shindejayshri.movieapp.Adapter.MovieListAdapter;
+import com.shindejayshri.movieapp.Interface.ApiInterface;
+import com.shindejayshri.movieapp.ModelClass.MovieBaseResponse;
+import com.shindejayshri.movieapp.ModelClass.MovieResult;
+import com.example.movieapp.R;
+import com.shindejayshri.movieapp.Service.Retrofit;
+import com.shindejayshri.movieapp.Utils.Credentials;
 
 import java.util.ArrayList;
 

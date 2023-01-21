@@ -1,4 +1,4 @@
-package com.example.movieapp;
+package com.shindejayshri.movieapp;
 
 import android.content.Context;
 
